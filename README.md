@@ -1,7 +1,6 @@
-
-
 ## AB TESTING PROJECT FOR ONLINE ADVERTISING
-A firm want to know between two awareness method, which is the most effective on purchase. so they decided to share their customers into two groups. one group were exposed to  **public service Anouncement (Psa)** others were exposed to **Advertisment (ad)** which included web page, page element, banner, etc. This experiment was carried out for a period of 30 days.
+A firm want to know if there is a difference between two awareness method, and which is the most effective in terms of driving purchase. so they decided to share their customers into two groups. one group were exposed to  **public service Anouncement (Psa)**, others were exposed to **Advertisment (ad)** which included web page, page element, banner, etc. This experiment was carried out for a period of 30 days.
+
 
 ## META DATA
 1) No of columns = 6
