@@ -17,4 +17,4 @@ A firm want to know if there is a difference between two awareness method, and w
 
 ## Decision
 
-At the end of the task, result showed that **Advert** is better than Public Service Announcemet
+At the end of the task, result showed that there is a significant differce between Advertising and Public Service Announcemet and this difference had a large confidence interval at 95% confidence level. See the Jupyter notebook in this repository for details.
